@@ -2,3 +2,6 @@ streamlit
 torch
 transformers
 safetensors
+scikit-learn
+pandas
+numpy
